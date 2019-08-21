@@ -79,7 +79,7 @@ def main():
                 "id" : %s,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["%s","%s"]
+                    "coordinates" : [%s,%s]
                 },
                 "properties" : {
                     "name" : "%s", 
@@ -88,8 +88,8 @@ def main():
             }"""
 
     # the head of the geojson file
-    output = """{ "type" : "Feature Collection",
-    { "features" : ["""
+    output = """{ "type" : "FeatureCollection",
+    "features" : ["""
 
     # loop through the csv by row skipping the first
     iRow = 0
@@ -145,8 +145,8 @@ def main():
             # append formated GeoJSON Feature
             output += template % (
                     featureRow.id, 
-                    featureRow.latitude, 
                     featureRow.longitude, 
+                    featureRow.latitude, 
                     featureRow.name,
                     featureRow.value
                 )
@@ -154,8 +154,7 @@ def main():
             
     # the tail of the geojson file
     output += """
-        ]
-    }
+    ]
 }"""
     
     # print any errors that were found

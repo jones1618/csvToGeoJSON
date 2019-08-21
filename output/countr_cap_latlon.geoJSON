@@ -1,10 +1,10 @@
-{ "type" : "Feature Collection",
-    { "features" : [
+{ "type" : "FeatureCollection",
+    "features" : [
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 1,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["34.28","69.11"]
+                    "coordinates" : [69.206663,34.556042]
                 },
                 "properties" : {
                     "name" : "Kabul", 
@@ -12,21 +12,21 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 2,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["41.18","19.49"]
+                    "coordinates" : [19.821418,41.328074]
                 },
                 "properties" : {
-                    "name" : "Tirane", 
+                    "name" : "Tirana", 
                     "value" : "Albania" 
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 3,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["36.42","3.08"]
+                    "coordinates" : [3.087794,36.740122]
                 },
                 "properties" : {
                     "name" : "Algiers", 
@@ -34,10 +34,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 4,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-14.16","-170.4"]
+                    "coordinates" : [-170.4,-14.16]
                 },
                 "properties" : {
                     "name" : "Pago Pago", 
@@ -45,10 +45,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 5,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["42.31","1.32"]
+                    "coordinates" : [1.32,42.31]
                 },
                 "properties" : {
                     "name" : "Andorra la Vella", 
@@ -56,10 +56,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 6,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-8.5","13.15"]
+                    "coordinates" : [13.15,-8.5]
                 },
                 "properties" : {
                     "name" : "Luanda", 
@@ -67,10 +67,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 7,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["17.2","-61.48"]
+                    "coordinates" : [-61.48,17.2]
                 },
                 "properties" : {
                     "name" : "W. Indies", 
@@ -78,10 +78,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 8,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-36.3","-60"]
+                    "coordinates" : [-60,-36.3]
                 },
                 "properties" : {
                     "name" : "Buenos Aires", 
@@ -89,10 +89,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 9,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["40.1","44.31"]
+                    "coordinates" : [44.31,40.1]
                 },
                 "properties" : {
                     "name" : "Yerevan", 
@@ -100,10 +100,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 10,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["12.32","-70.02"]
+                    "coordinates" : [-70.02,12.32]
                 },
                 "properties" : {
                     "name" : "Oranjestad", 
@@ -111,10 +111,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 11,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-35.15","149"]
+                    "coordinates" : [149,-35.15]
                 },
                 "properties" : {
                     "name" : "Canberra", 
@@ -122,10 +122,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 12,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["48.12","16.22"]
+                    "coordinates" : [16.22,48.12]
                 },
                 "properties" : {
                     "name" : "Vienna", 
@@ -133,10 +133,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 13,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["40.29","49.56"]
+                    "coordinates" : [49.56,40.29]
                 },
                 "properties" : {
                     "name" : "Baku", 
@@ -144,10 +144,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 14,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["25.05","-77.2"]
+                    "coordinates" : [-77.2,25.05]
                 },
                 "properties" : {
                     "name" : "Nassau", 
@@ -155,10 +155,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 15,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["26.1","50.3"]
+                    "coordinates" : [50.3,26.1]
                 },
                 "properties" : {
                     "name" : "Manama", 
@@ -166,10 +166,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 16,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["23.43","90.26"]
+                    "coordinates" : [90.26,23.43]
                 },
                 "properties" : {
                     "name" : "Dhaka", 
@@ -177,10 +177,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 17,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["13.05","-59.3"]
+                    "coordinates" : [-59.3,13.05]
                 },
                 "properties" : {
                     "name" : "Bridgetown", 
@@ -188,10 +188,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 18,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["53.52","27.3"]
+                    "coordinates" : [27.3,53.52]
                 },
                 "properties" : {
                     "name" : "Minsk", 
@@ -199,10 +199,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 19,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["50.51","4.21"]
+                    "coordinates" : [4.21,50.51]
                 },
                 "properties" : {
                     "name" : "Brussels", 
@@ -210,10 +210,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 20,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["17.18","-88.3"]
+                    "coordinates" : [-88.3,17.18]
                 },
                 "properties" : {
                     "name" : "Belmopan", 
@@ -221,10 +221,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 21,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["27.31","89.45"]
+                    "coordinates" : [89.45,27.31]
                 },
                 "properties" : {
                     "name" : "Thimphu", 
@@ -232,10 +232,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 22,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-16.2","-68.1"]
+                    "coordinates" : [-68.1,-16.2]
                 },
                 "properties" : {
                     "name" : "La Paz", 
@@ -243,10 +243,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 23,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["43.52","18.26"]
+                    "coordinates" : [18.26,43.52]
                 },
                 "properties" : {
                     "name" : "Sarajevo", 
@@ -254,10 +254,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 24,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-24.45","25.57"]
+                    "coordinates" : [25.57,-24.45]
                 },
                 "properties" : {
                     "name" : "Gaborone", 
@@ -265,10 +265,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 25,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-15.47","-47.55"]
+                    "coordinates" : [-47.55,-15.47]
                 },
                 "properties" : {
                     "name" : "Brasilia", 
@@ -276,10 +276,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 26,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["18.27","-64.37"]
+                    "coordinates" : [-64.37,18.27]
                 },
                 "properties" : {
                     "name" : "Road Town", 
@@ -287,10 +287,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 27,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["4.52","115"]
+                    "coordinates" : [115,4.52]
                 },
                 "properties" : {
                     "name" : "Bandar Seri Begawan", 
@@ -298,10 +298,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 28,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["42.45","23.2"]
+                    "coordinates" : [23.2,42.45]
                 },
                 "properties" : {
                     "name" : "Sofia", 
@@ -309,10 +309,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 29,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["12.15","-1.3"]
+                    "coordinates" : [-1.3,12.15]
                 },
                 "properties" : {
                     "name" : "Ouagadougou", 
@@ -320,10 +320,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 30,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-3.16","29.18"]
+                    "coordinates" : [29.18,-3.16]
                 },
                 "properties" : {
                     "name" : "Bujumbura", 
@@ -331,10 +331,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 31,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["11.33","104.5"]
+                    "coordinates" : [104.5,11.33]
                 },
                 "properties" : {
                     "name" : "Phnom Penh", 
@@ -342,10 +342,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 32,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["3.5","11.35"]
+                    "coordinates" : [11.35,3.5]
                 },
                 "properties" : {
                     "name" : "Yaounde", 
@@ -353,10 +353,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 33,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-45.27","-75.42"]
+                    "coordinates" : [-75.42,-45.27]
                 },
                 "properties" : {
                     "name" : "Ottawa", 
@@ -364,10 +364,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 34,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["15.02","-23.34"]
+                    "coordinates" : [-23.34,15.02]
                 },
                 "properties" : {
                     "name" : "Praia", 
@@ -375,10 +375,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 35,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["19.2","-81.24"]
+                    "coordinates" : [-81.24,19.2]
                 },
                 "properties" : {
                     "name" : "George Town", 
@@ -386,10 +386,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 36,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["4.23","18.35"]
+                    "coordinates" : [18.35,4.23]
                 },
                 "properties" : {
                     "name" : "Bangui", 
@@ -397,10 +397,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 37,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["12.1","14.59"]
+                    "coordinates" : [14.59,12.1]
                 },
                 "properties" : {
                     "name" : "N'Djamena", 
@@ -408,10 +408,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 38,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-33.24","-70.4"]
+                    "coordinates" : [-70.4,-33.24]
                 },
                 "properties" : {
                     "name" : "Santiago", 
@@ -419,10 +419,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 39,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["39.55","116.2"]
+                    "coordinates" : [116.2,39.55]
                 },
                 "properties" : {
                     "name" : "Beijing", 
@@ -430,10 +430,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 40,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["4.34","-74"]
+                    "coordinates" : [-74,4.34]
                 },
                 "properties" : {
                     "name" : "Bogota", 
@@ -441,10 +441,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 41,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-11.4","43.16"]
+                    "coordinates" : [43.16,-11.4]
                 },
                 "properties" : {
                     "name" : "Moroni", 
@@ -452,10 +452,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 42,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-4.09","15.12"]
+                    "coordinates" : [15.12,-4.09]
                 },
                 "properties" : {
                     "name" : "Brazzaville", 
@@ -463,10 +463,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 43,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["9.55","-84.02"]
+                    "coordinates" : [-84.02,9.55]
                 },
                 "properties" : {
                     "name" : "San Jose", 
@@ -474,10 +474,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 44,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["6.49","-5.17"]
+                    "coordinates" : [-5.17,6.49]
                 },
                 "properties" : {
                     "name" : "Yamoussoukro", 
@@ -485,10 +485,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 45,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["45.5","15.58"]
+                    "coordinates" : [15.58,45.5]
                 },
                 "properties" : {
                     "name" : "Zagreb", 
@@ -496,10 +496,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 46,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["23.08","-82.22"]
+                    "coordinates" : [-82.22,23.08]
                 },
                 "properties" : {
                     "name" : "Havana", 
@@ -507,10 +507,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 47,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["35.1","33.25"]
+                    "coordinates" : [33.25,35.1]
                 },
                 "properties" : {
                     "name" : "Nicosia", 
@@ -518,10 +518,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 48,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["50.05","14.22"]
+                    "coordinates" : [14.22,50.05]
                 },
                 "properties" : {
                     "name" : "Prague", 
@@ -529,10 +529,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 49,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-4.2","15.15"]
+                    "coordinates" : [15.15,-4.2]
                 },
                 "properties" : {
                     "name" : "Kinshasa", 
@@ -540,10 +540,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 50,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["55.41","12.34"]
+                    "coordinates" : [12.34,55.41]
                 },
                 "properties" : {
                     "name" : "Copenhagen", 
@@ -551,10 +551,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 51,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["11.08","42.2"]
+                    "coordinates" : [42.2,11.08]
                 },
                 "properties" : {
                     "name" : "Djibouti", 
@@ -562,10 +562,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 52,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["15.2","-61.24"]
+                    "coordinates" : [-61.24,15.2]
                 },
                 "properties" : {
                     "name" : "Roseau", 
@@ -573,10 +573,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 53,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["18.3","-69.59"]
+                    "coordinates" : [-69.59,18.3]
                 },
                 "properties" : {
                     "name" : "Santo Domingo", 
@@ -584,10 +584,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 54,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-8.29","125.3"]
+                    "coordinates" : [125.3,-8.29]
                 },
                 "properties" : {
                     "name" : "Dili", 
@@ -595,10 +595,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 55,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-0.15","-78.35"]
+                    "coordinates" : [-78.35,-0.15]
                 },
                 "properties" : {
                     "name" : "Quito", 
@@ -606,10 +606,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 56,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["30.01","31.14"]
+                    "coordinates" : [31.14,30.01]
                 },
                 "properties" : {
                     "name" : "Cairo", 
@@ -617,10 +617,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 57,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["13.4","-89.1"]
+                    "coordinates" : [-89.1,13.4]
                 },
                 "properties" : {
                     "name" : "San Salvador", 
@@ -628,10 +628,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 58,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["3.45","8.5"]
+                    "coordinates" : [8.5,3.45]
                 },
                 "properties" : {
                     "name" : "Malabo", 
@@ -639,10 +639,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 59,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["15.19","38.55"]
+                    "coordinates" : [38.55,15.19]
                 },
                 "properties" : {
                     "name" : "Asmara", 
@@ -650,10 +650,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 60,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["59.22","24.48"]
+                    "coordinates" : [24.48,59.22]
                 },
                 "properties" : {
                     "name" : "Tallinn", 
@@ -661,10 +661,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 61,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["9.02","38.42"]
+                    "coordinates" : [38.42,9.02]
                 },
                 "properties" : {
                     "name" : "Addis Ababa", 
@@ -672,10 +672,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 62,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-51.4","-59.51"]
+                    "coordinates" : [-59.51,-51.4]
                 },
                 "properties" : {
                     "name" : "Stanley", 
@@ -683,10 +683,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 63,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["62.05","-6.56"]
+                    "coordinates" : [-6.56,62.05]
                 },
                 "properties" : {
                     "name" : "Torshavn", 
@@ -694,10 +694,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 64,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-18.06","178.3"]
+                    "coordinates" : [178.3,-18.06]
                 },
                 "properties" : {
                     "name" : "Suva", 
@@ -705,10 +705,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 65,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["60.15","25.03"]
+                    "coordinates" : [25.03,60.15]
                 },
                 "properties" : {
                     "name" : "Helsinki", 
@@ -716,10 +716,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 66,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["48.5","2.2"]
+                    "coordinates" : [2.2,48.5]
                 },
                 "properties" : {
                     "name" : "Paris", 
@@ -727,10 +727,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 67,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["5.05","-52.18"]
+                    "coordinates" : [-52.18,5.05]
                 },
                 "properties" : {
                     "name" : "Cayenne", 
@@ -738,10 +738,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 68,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-17.32","-149.3"]
+                    "coordinates" : [-149.3,-17.32]
                 },
                 "properties" : {
                     "name" : "Papeete", 
@@ -749,10 +749,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 69,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["0.25","9.26"]
+                    "coordinates" : [9.26,0.25]
                 },
                 "properties" : {
                     "name" : "Libreville", 
@@ -760,10 +760,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 70,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["13.28","-16.4"]
+                    "coordinates" : [-16.4,13.28]
                 },
                 "properties" : {
                     "name" : "Banjul", 
@@ -771,10 +771,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 71,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["41.43","44.5"]
+                    "coordinates" : [44.5,41.43]
                 },
                 "properties" : {
                     "name" : "T'bilisi", 
@@ -782,10 +782,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 72,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["52.3","13.25"]
+                    "coordinates" : [13.25,52.3]
                 },
                 "properties" : {
                     "name" : "Berlin", 
@@ -793,10 +793,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 73,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["5.35","-0.06"]
+                    "coordinates" : [-0.06,5.35]
                 },
                 "properties" : {
                     "name" : "Accra", 
@@ -804,10 +804,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 74,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["37.58","23.46"]
+                    "coordinates" : [23.46,37.58]
                 },
                 "properties" : {
                     "name" : "Athens", 
@@ -815,10 +815,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 75,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["64.1","-51.35"]
+                    "coordinates" : [-51.35,64.1]
                 },
                 "properties" : {
                     "name" : "Nuuk", 
@@ -826,10 +826,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 76,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["16","-61.44"]
+                    "coordinates" : [-61.44,16]
                 },
                 "properties" : {
                     "name" : "Basse-Terre", 
@@ -837,10 +837,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 77,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["14.4","-90.22"]
+                    "coordinates" : [-90.22,14.4]
                 },
                 "properties" : {
                     "name" : "Guatemala", 
@@ -848,10 +848,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 78,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["49.26","-2.33"]
+                    "coordinates" : [-2.33,49.26]
                 },
                 "properties" : {
                     "name" : "St. Peter Port", 
@@ -859,10 +859,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 79,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["9.29","-13.49"]
+                    "coordinates" : [-13.49,9.29]
                 },
                 "properties" : {
                     "name" : "Conakry", 
@@ -870,10 +870,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 80,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["11.45","-15.45"]
+                    "coordinates" : [-15.45,11.45]
                 },
                 "properties" : {
                     "name" : "Bissau", 
@@ -881,10 +881,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 81,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["6.5","-58.12"]
+                    "coordinates" : [-58.12,6.5]
                 },
                 "properties" : {
                     "name" : "Georgetown", 
@@ -892,10 +892,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 82,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["18.4","-72.2"]
+                    "coordinates" : [-72.2,18.4]
                 },
                 "properties" : {
                     "name" : "Port-au-Prince", 
@@ -903,10 +903,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 83,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["14.05","-87.14"]
+                    "coordinates" : [-87.14,14.05]
                 },
                 "properties" : {
                     "name" : "Tegucigalpa", 
@@ -914,10 +914,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 84,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["47.29","19.05"]
+                    "coordinates" : [19.05,47.29]
                 },
                 "properties" : {
                     "name" : "Budapest", 
@@ -925,10 +925,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 85,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["64.1","-21.57"]
+                    "coordinates" : [-21.57,64.1]
                 },
                 "properties" : {
                     "name" : "Reykjavik", 
@@ -936,10 +936,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 86,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["28.37","77.13"]
+                    "coordinates" : [77.13,28.37]
                 },
                 "properties" : {
                     "name" : "New Delhi", 
@@ -947,10 +947,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 87,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-6.09","106.4"]
+                    "coordinates" : [106.4,-6.09]
                 },
                 "properties" : {
                     "name" : "Jakarta", 
@@ -958,10 +958,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 88,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["35.44","51.3"]
+                    "coordinates" : [51.3,35.44]
                 },
                 "properties" : {
                     "name" : "Tehran", 
@@ -969,10 +969,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 89,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["33.2","44.3"]
+                    "coordinates" : [44.3,33.2]
                 },
                 "properties" : {
                     "name" : "Baghdad", 
@@ -980,10 +980,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 90,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["53.21","-6.15"]
+                    "coordinates" : [-6.15,53.21]
                 },
                 "properties" : {
                     "name" : "Dublin", 
@@ -991,10 +991,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 91,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["31.71","35.1"]
+                    "coordinates" : [35.1,31.71]
                 },
                 "properties" : {
                     "name" : "Jerusalem", 
@@ -1002,10 +1002,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 92,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["41.54","12.29"]
+                    "coordinates" : [12.29,41.54]
                 },
                 "properties" : {
                     "name" : "Rome", 
@@ -1013,10 +1013,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 93,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["18","-76.5"]
+                    "coordinates" : [-76.5,18]
                 },
                 "properties" : {
                     "name" : "Kingston", 
@@ -1024,10 +1024,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 94,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["31.57","35.52"]
+                    "coordinates" : [35.52,31.57]
                 },
                 "properties" : {
                     "name" : "Amman", 
@@ -1035,10 +1035,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 95,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["51.1","71.3"]
+                    "coordinates" : [71.3,51.1]
                 },
                 "properties" : {
                     "name" : "Astana", 
@@ -1046,10 +1046,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 96,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-1.17","36.48"]
+                    "coordinates" : [36.48,-1.17]
                 },
                 "properties" : {
                     "name" : "Nairobi", 
@@ -1057,10 +1057,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 97,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["1.3","173"]
+                    "coordinates" : [173,1.3]
                 },
                 "properties" : {
                     "name" : "Tarawa", 
@@ -1068,10 +1068,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 98,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["29.3","48"]
+                    "coordinates" : [48,29.3]
                 },
                 "properties" : {
                     "name" : "Kuwait", 
@@ -1079,10 +1079,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 99,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["42.54","74.46"]
+                    "coordinates" : [74.46,42.54]
                 },
                 "properties" : {
                     "name" : "Bishkek", 
@@ -1090,10 +1090,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 100,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["56.53","24.08"]
+                    "coordinates" : [24.08,56.53]
                 },
                 "properties" : {
                     "name" : "Riga", 
@@ -1101,10 +1101,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 101,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["33.53","35.31"]
+                    "coordinates" : [35.31,33.53]
                 },
                 "properties" : {
                     "name" : "Beirut", 
@@ -1112,10 +1112,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 102,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-29.18","27.3"]
+                    "coordinates" : [27.3,-29.18]
                 },
                 "properties" : {
                     "name" : "Maseru", 
@@ -1123,10 +1123,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 103,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["6.18","-10.47"]
+                    "coordinates" : [-10.47,6.18]
                 },
                 "properties" : {
                     "name" : "Monrovia", 
@@ -1134,10 +1134,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 104,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["47.08","9.31"]
+                    "coordinates" : [9.31,47.08]
                 },
                 "properties" : {
                     "name" : "Vaduz", 
@@ -1145,10 +1145,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 105,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["54.38","25.19"]
+                    "coordinates" : [25.19,54.38]
                 },
                 "properties" : {
                     "name" : "Vilnius", 
@@ -1156,10 +1156,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 106,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["49.37","6.09"]
+                    "coordinates" : [6.09,49.37]
                 },
                 "properties" : {
                     "name" : "Luxembourg", 
@@ -1167,10 +1167,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 107,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["22.12","113.3"]
+                    "coordinates" : [113.3,22.12]
                 },
                 "properties" : {
                     "name" : "Macau", 
@@ -1178,10 +1178,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 108,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-18.55","47.31"]
+                    "coordinates" : [47.31,-18.55]
                 },
                 "properties" : {
                     "name" : "Antananarivo", 
@@ -1189,10 +1189,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 109,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-14","33.48"]
+                    "coordinates" : [33.48,-14]
                 },
                 "properties" : {
                     "name" : "Lilongwe", 
@@ -1200,10 +1200,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 110,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["3.09","101.4"]
+                    "coordinates" : [101.4,3.09]
                 },
                 "properties" : {
                     "name" : "Kuala Lumpur", 
@@ -1211,10 +1211,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 111,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["4","73.28"]
+                    "coordinates" : [73.28,4]
                 },
                 "properties" : {
                     "name" : "Male", 
@@ -1222,10 +1222,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 112,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["12.34","-7.55"]
+                    "coordinates" : [-7.55,12.34]
                 },
                 "properties" : {
                     "name" : "Bamako", 
@@ -1233,10 +1233,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 113,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["35.54","14.31"]
+                    "coordinates" : [14.31,35.54]
                 },
                 "properties" : {
                     "name" : "Valletta", 
@@ -1244,10 +1244,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 114,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["14.36","-61.02"]
+                    "coordinates" : [-61.02,14.36]
                 },
                 "properties" : {
                     "name" : "Fort-de-France", 
@@ -1255,10 +1255,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 115,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-20.1","57.3"]
+                    "coordinates" : [57.3,-20.1]
                 },
                 "properties" : {
                     "name" : "Nouakchott", 
@@ -1266,10 +1266,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 116,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-12.48","45.14"]
+                    "coordinates" : [45.14,-12.48]
                 },
                 "properties" : {
                     "name" : "Mamoudzou", 
@@ -1277,10 +1277,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 117,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["19.2","-99.1"]
+                    "coordinates" : [-99.1,19.2]
                 },
                 "properties" : {
                     "name" : "Mexico", 
@@ -1288,10 +1288,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 118,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["6.55","158"]
+                    "coordinates" : [158,6.55]
                 },
                 "properties" : {
                     "name" : "Palikir", 
@@ -1299,10 +1299,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 119,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["47.02","28.5"]
+                    "coordinates" : [28.5,47.02]
                 },
                 "properties" : {
                     "name" : "Chisinau", 
@@ -1310,10 +1310,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 120,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-25.58","32.32"]
+                    "coordinates" : [32.32,-25.58]
                 },
                 "properties" : {
                     "name" : "Maputo", 
@@ -1321,10 +1321,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 121,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["16.45","96.2"]
+                    "coordinates" : [96.2,16.45]
                 },
                 "properties" : {
                     "name" : "Yangon", 
@@ -1332,10 +1332,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 122,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-22.35","17.04"]
+                    "coordinates" : [17.04,-22.35]
                 },
                 "properties" : {
                     "name" : "Windhoek", 
@@ -1343,10 +1343,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 123,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["27.45","85.2"]
+                    "coordinates" : [85.2,27.45]
                 },
                 "properties" : {
                     "name" : "Kathmandu", 
@@ -1354,10 +1354,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 124,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["52.23","4.54"]
+                    "coordinates" : [4.54,52.23]
                 },
                 "properties" : {
                     "name" : "Amsterdam", 
@@ -1365,10 +1365,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 125,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["12.05","-69"]
+                    "coordinates" : [-69,12.05]
                 },
                 "properties" : {
                     "name" : "Willemstad", 
@@ -1376,10 +1376,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 126,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-22.17","166.3"]
+                    "coordinates" : [166.3,-22.17]
                 },
                 "properties" : {
                     "name" : "Noumea", 
@@ -1387,10 +1387,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 127,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-41.19","174.4"]
+                    "coordinates" : [174.4,-41.19]
                 },
                 "properties" : {
                     "name" : "Wellington", 
@@ -1398,10 +1398,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 128,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["12.06","-86.2"]
+                    "coordinates" : [-86.2,12.06]
                 },
                 "properties" : {
                     "name" : "Managua", 
@@ -1409,10 +1409,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 129,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["13.27","2.06"]
+                    "coordinates" : [2.06,13.27]
                 },
                 "properties" : {
                     "name" : "Niamey", 
@@ -1420,10 +1420,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 130,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["9.05","7.32"]
+                    "coordinates" : [7.32,9.05]
                 },
                 "properties" : {
                     "name" : "Abuja", 
@@ -1431,10 +1431,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 131,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-45.2","168.4"]
+                    "coordinates" : [168.4,-45.2]
                 },
                 "properties" : {
                     "name" : "Kingston", 
@@ -1442,10 +1442,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 132,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["15.12","145.4"]
+                    "coordinates" : [145.4,15.12]
                 },
                 "properties" : {
                     "name" : "Saipan", 
@@ -1453,10 +1453,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 133,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["59.55","10.45"]
+                    "coordinates" : [10.45,59.55]
                 },
                 "properties" : {
                     "name" : "Oslo", 
@@ -1464,10 +1464,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 134,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["23.37","58.36"]
+                    "coordinates" : [58.36,23.37]
                 },
                 "properties" : {
                     "name" : "Masqat", 
@@ -1475,10 +1475,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 135,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["33.4","73.1"]
+                    "coordinates" : [73.1,33.4]
                 },
                 "properties" : {
                     "name" : "Islamabad", 
@@ -1486,10 +1486,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 136,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["7.2","134.2"]
+                    "coordinates" : [134.2,7.2]
                 },
                 "properties" : {
                     "name" : "Koror", 
@@ -1497,10 +1497,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 137,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["9","-79.25"]
+                    "coordinates" : [-79.25,9]
                 },
                 "properties" : {
                     "name" : "Panama", 
@@ -1508,10 +1508,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 138,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-9.24","147"]
+                    "coordinates" : [147,-9.24]
                 },
                 "properties" : {
                     "name" : "Port Moresby", 
@@ -1519,10 +1519,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 139,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-25.1","-57.3"]
+                    "coordinates" : [-57.3,-25.1]
                 },
                 "properties" : {
                     "name" : "Asuncion", 
@@ -1530,10 +1530,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 140,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-12","-77"]
+                    "coordinates" : [-77,-12]
                 },
                 "properties" : {
                     "name" : "Lima", 
@@ -1541,10 +1541,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 141,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["14.4","121"]
+                    "coordinates" : [121,14.4]
                 },
                 "properties" : {
                     "name" : "Manila", 
@@ -1552,10 +1552,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 142,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["52.13","21"]
+                    "coordinates" : [21,52.13]
                 },
                 "properties" : {
                     "name" : "Warsaw", 
@@ -1563,10 +1563,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 143,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["38.42","-9.1"]
+                    "coordinates" : [-9.1,38.42]
                 },
                 "properties" : {
                     "name" : "Lisbon", 
@@ -1574,10 +1574,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 144,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["18.28","-66.07"]
+                    "coordinates" : [-66.07,18.28]
                 },
                 "properties" : {
                     "name" : "San Juan", 
@@ -1585,10 +1585,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 145,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["25.15","51.35"]
+                    "coordinates" : [51.35,25.15]
                 },
                 "properties" : {
                     "name" : "Doha", 
@@ -1596,10 +1596,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 146,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["37.31","126.5"]
+                    "coordinates" : [126.5,37.31]
                 },
                 "properties" : {
                     "name" : "Seoul", 
@@ -1607,10 +1607,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 147,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["44.27","26.1"]
+                    "coordinates" : [26.1,44.27]
                 },
                 "properties" : {
                     "name" : "Bucuresti", 
@@ -1618,10 +1618,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 148,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["55.45","37.35"]
+                    "coordinates" : [37.35,55.45]
                 },
                 "properties" : {
                     "name" : "Moskva", 
@@ -1629,10 +1629,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 149,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-1.59","30.04"]
+                    "coordinates" : [30.04,-1.59]
                 },
                 "properties" : {
                     "name" : "Kigali", 
@@ -1640,10 +1640,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 150,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["17.17","-62.43"]
+                    "coordinates" : [-62.43,17.17]
                 },
                 "properties" : {
                     "name" : "Basseterre", 
@@ -1651,10 +1651,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 151,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["14.02","-60.58"]
+                    "coordinates" : [-60.58,14.02]
                 },
                 "properties" : {
                     "name" : "Castries", 
@@ -1662,10 +1662,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 152,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["46.46","-56.12"]
+                    "coordinates" : [-56.12,46.46]
                 },
                 "properties" : {
                     "name" : "Saint-Pierre", 
@@ -1673,10 +1673,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 153,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-13.5","-171.5"]
+                    "coordinates" : [-171.5,-13.5]
                 },
                 "properties" : {
                     "name" : "Apia", 
@@ -1684,10 +1684,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 154,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["43.55","12.3"]
+                    "coordinates" : [12.3,43.55]
                 },
                 "properties" : {
                     "name" : "San Marino", 
@@ -1695,10 +1695,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 155,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["0.1","6.39"]
+                    "coordinates" : [6.39,0.1]
                 },
                 "properties" : {
                     "name" : "Sao Tome", 
@@ -1706,10 +1706,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 156,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["24.41","46.42"]
+                    "coordinates" : [46.42,24.41]
                 },
                 "properties" : {
                     "name" : "Riyadh", 
@@ -1717,10 +1717,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 157,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["14.34","-17.29"]
+                    "coordinates" : [-17.29,14.34]
                 },
                 "properties" : {
                     "name" : "Dakar", 
@@ -1728,10 +1728,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 158,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["8.3","-13.17"]
+                    "coordinates" : [-13.17,8.3]
                 },
                 "properties" : {
                     "name" : "Freetown", 
@@ -1739,10 +1739,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 159,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["48.1","17.07"]
+                    "coordinates" : [17.07,48.1]
                 },
                 "properties" : {
                     "name" : "Bratislava", 
@@ -1750,10 +1750,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 160,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["46.04","14.33"]
+                    "coordinates" : [14.33,46.04]
                 },
                 "properties" : {
                     "name" : "Ljubljana", 
@@ -1761,10 +1761,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 161,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-9.27","159.5"]
+                    "coordinates" : [159.5,-9.27]
                 },
                 "properties" : {
                     "name" : "Honiara", 
@@ -1772,10 +1772,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 162,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["2.02","45.25"]
+                    "coordinates" : [45.25,2.02]
                 },
                 "properties" : {
                     "name" : "Mogadishu", 
@@ -1783,10 +1783,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 163,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-25.44","28.12"]
+                    "coordinates" : [28.12,-25.44]
                 },
                 "properties" : {
                     "name" : "Pretoria", 
@@ -1794,10 +1794,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 164,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["40.25","-3.45"]
+                    "coordinates" : [-3.45,40.25]
                 },
                 "properties" : {
                     "name" : "Madrid", 
@@ -1805,10 +1805,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 165,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["15.31","32.35"]
+                    "coordinates" : [32.35,15.31]
                 },
                 "properties" : {
                     "name" : "Khartoum", 
@@ -1816,10 +1816,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 166,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["5.5","-55.1"]
+                    "coordinates" : [-55.1,5.5]
                 },
                 "properties" : {
                     "name" : "Paramaribo", 
@@ -1827,10 +1827,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 167,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-26.18","31.06"]
+                    "coordinates" : [31.06,-26.18]
                 },
                 "properties" : {
                     "name" : "Mbabane", 
@@ -1838,10 +1838,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 168,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["59.2","18.03"]
+                    "coordinates" : [18.03,59.2]
                 },
                 "properties" : {
                     "name" : "Stockholm", 
@@ -1849,10 +1849,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 169,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["46.57","7.28"]
+                    "coordinates" : [7.28,46.57]
                 },
                 "properties" : {
                     "name" : "Bern", 
@@ -1860,10 +1860,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 170,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["33.3","36.18"]
+                    "coordinates" : [36.18,33.3]
                 },
                 "properties" : {
                     "name" : "Damascus", 
@@ -1871,10 +1871,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 171,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["38.33","68.48"]
+                    "coordinates" : [68.48,38.33]
                 },
                 "properties" : {
                     "name" : "Dushanbe", 
@@ -1882,10 +1882,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 172,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["13.45","100.3"]
+                    "coordinates" : [100.3,13.45]
                 },
                 "properties" : {
                     "name" : "Bangkok", 
@@ -1893,10 +1893,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 173,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["6.09","1.2"]
+                    "coordinates" : [1.2,6.09]
                 },
                 "properties" : {
                     "name" : "Lome", 
@@ -1904,10 +1904,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 174,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-21.1","-174"]
+                    "coordinates" : [-174,-21.1]
                 },
                 "properties" : {
                     "name" : "Nuku'alofa", 
@@ -1915,10 +1915,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 175,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["36.5","10.11"]
+                    "coordinates" : [10.11,36.5]
                 },
                 "properties" : {
                     "name" : "Tunis", 
@@ -1926,10 +1926,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 176,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["39.57","32.54"]
+                    "coordinates" : [32.54,39.57]
                 },
                 "properties" : {
                     "name" : "Ankara", 
@@ -1937,10 +1937,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 177,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["38","57.5"]
+                    "coordinates" : [57.5,38]
                 },
                 "properties" : {
                     "name" : "Ashgabat", 
@@ -1948,10 +1948,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 178,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-8.31","179.1"]
+                    "coordinates" : [179.1,-8.31]
                 },
                 "properties" : {
                     "name" : "Funafuti", 
@@ -1959,10 +1959,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 179,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["0.2","32.3"]
+                    "coordinates" : [32.3,0.2]
                 },
                 "properties" : {
                     "name" : "Kampala", 
@@ -1970,10 +1970,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 180,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["50.3","30.28"]
+                    "coordinates" : [30.28,50.3]
                 },
                 "properties" : {
                     "name" : "Kiev", 
@@ -1981,10 +1981,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 181,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["24.28","54.22"]
+                    "coordinates" : [54.22,24.28]
                 },
                 "properties" : {
                     "name" : "Abu Dhabi", 
@@ -1992,10 +1992,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 182,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["51.36","-0.05"]
+                    "coordinates" : [-0.05,51.36]
                 },
                 "properties" : {
                     "name" : "London", 
@@ -2003,10 +2003,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 183,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-6.08","35.45"]
+                    "coordinates" : [35.45,-6.08]
                 },
                 "properties" : {
                     "name" : "Dodoma", 
@@ -2014,10 +2014,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 184,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["39.91","-77.02"]
+                    "coordinates" : [-77.02,39.91]
                 },
                 "properties" : {
                     "name" : "Washington DC", 
@@ -2025,10 +2025,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 185,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-34.5","-56.11"]
+                    "coordinates" : [-56.11,-34.5]
                 },
                 "properties" : {
                     "name" : "Montevideo", 
@@ -2036,10 +2036,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 186,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["41.2","69.1"]
+                    "coordinates" : [69.1,41.2]
                 },
                 "properties" : {
                     "name" : "Tashkent", 
@@ -2047,10 +2047,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 187,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-17.45","168.1"]
+                    "coordinates" : [168.1,-17.45]
                 },
                 "properties" : {
                     "name" : "Port-Vila", 
@@ -2058,10 +2058,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 188,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["10.3","-66.55"]
+                    "coordinates" : [-66.55,10.3]
                 },
                 "properties" : {
                     "name" : "Caracas", 
@@ -2069,10 +2069,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 189,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["21.05","105.5"]
+                    "coordinates" : [105.5,21.05]
                 },
                 "properties" : {
                     "name" : "Hanoi", 
@@ -2080,10 +2080,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 190,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["44.5","20.37"]
+                    "coordinates" : [20.37,44.5]
                 },
                 "properties" : {
                     "name" : "Belgrade", 
@@ -2091,10 +2091,10 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 191,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-15.28","28.16"]
+                    "coordinates" : [28.16,-15.28]
                 },
                 "properties" : {
                     "name" : "Lusaka", 
@@ -2102,16 +2102,15 @@
                 }
             },
             {   "type" : "Feature",
-                "id" : 0,
+                "id" : 192,
                 "geometry" : {
                     "type" : "Point",
-                    "coordinates" : ["-17.43","31.02"]
+                    "coordinates" : [31.02,-17.43]
                 },
                 "properties" : {
                     "name" : "Harare", 
                     "value" : "Zimbabwe" 
                 }
             }
-        ]
-    }
+    ]
 }
